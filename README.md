@@ -10,7 +10,7 @@ Code accompanying Luke Richardson's masters dissertation.
 | `Sim&Control/` | Simulation and closed-loop control implementations |
 | `System Identification/` | Scripts for identifying system dynamics from experimental tests |
 
-Details for the Crazyflie simulation used for dynamics verification can be found at https://github.com/lukejrichardson/CrazyflieSimulation.
+Details for the Crazyflie simulation used for dynamics verification can be found at [https://github.com/lukejrichardson/CrazyflieSimulation](https://github.com/lukejrichardson/CrazyflieSimulation.git).
 
 ## Usage
 

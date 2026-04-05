@@ -1,0 +1,19 @@
+function [A, B, C, D, K, x0] = linear_greybox_ss(par, Ts)
+
+theta0 = -0.0044
+
+m = 0.217;
+g = 9.81;
+l = 0.240;
+
+I = par(1);
+c = par(2);
+
+A = [0 1; (-m*g*l/I) (-c/I)];
+B = zeros(2,1);
+C = [1 0; 0 0];
+D = zeros(2,1);
+K = [0 0; 0 0];
+x0 = [theta0; dtheta0];
+end
+

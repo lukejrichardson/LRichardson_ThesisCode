@@ -6,7 +6,7 @@ Code accompanying Luke Richardson's masters dissertation.
 
 | Folder | Description |
 |---|---|
-| `Design/` | Frame design CAD models |
+| `Design/` | Frame design CAD models & rigidity and propulsion system tests |
 | `Sim&Control/` | Simulation and closed-loop control implementations |
 | `System Identification/` | Scripts for identifying system dynamics from experimental tests |
 
